@@ -3,3 +3,4 @@ This mod is not affiliated with Among us, Among Us 3D, Innersloth LLC, and the c
 
 # AU3D-AntiCheat
 A host only AntiCheat for Among Us 3D/VR, due to the nature of the anticheat this mod only works if you are host
+- this anticheat patches out known exploits that are abused and blacklists known modders 
